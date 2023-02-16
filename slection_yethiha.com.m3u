@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Rakuten Family (Finland)
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/z5E8vLR.png" group-title="Kids",Baby TV Asia (1080p)
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",BLUE CARTOON NETWORK HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/339612?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",CINE STAR ANIMATION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/334269?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KINO ANIMATION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/331690?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MOVIE TIME ANIMATION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/418618?checkedby:iptvcat.com
+#EXTINF:-1, MNTV (မြန်မာ)
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1, Maharbawdi (မြန်မာ)
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+
+#EXTINF:-1, Channel7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1, MRTV 4 (မြန်မာ)
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 group-title="&quot;Without",MWD (မြန်မာ)
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 group-title="&quot;Without",TvMHD (မြန်မာ)
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 group-title="&quot;Without",MWD Variety HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1 group-title="&quot;Without",Golden Land HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="&quot;Without",MWD Family HD မြန်မာ)
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1 group-title="&quot;Without",WAF test (မြန်မာ)
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1 group-title="&quot;Without",MWD Edu (မြန်မာ)
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Undefined",Zoo Moo
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Undefined",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+	

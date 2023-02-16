@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:0 ,MRTV_4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:0 ,Channel 7
+https://foreveralive1-a.akamaihd.net/eaf0b5986db748fdacdbc450f602b373/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:241 ,Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:0 ,Fortune
+http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
+#EXTINF:0 ,MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:0 ,Cookies Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:0 ,Maharbawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1,mntv 
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1,Mizzima TV
+http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com
+
+
+
+#EXTINF:-1,,ANTV
+http://210.210.155.35/session/c8c106d6-beca-11ea-aa3d-8652b120e626/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1,DVB
+https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+
+#EXTINF:-1,MWD 
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1,MWD Variety 
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1,Movie HD
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,Docmen HD
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1,Serie HD 
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1,Shopping HD
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1,Family HD
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1,MM1(channel)
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+
+#EXTINF:-1,MM2(channel)
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+
+
+
+
+#EXTINF:-1,BeinSport 1 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/60958
+#EXTINF:-1,BeinSport 2 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/28751
+#EXTINF:-1,BeinSport 3 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/60959
+#EXTINF:-1,BeinSport 4 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36302
+#EXTINF:-1,BeinSport 5 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36301
+#EXTINF:-1,BeinSport 6 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36300
+#EXTINF:-1,BeinSport 7 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36299
+#EXTINF:-1,BeinSport 8 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36298
+#EXTINF:-1,BeinSport 9 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36297
+#EXTINF:-1,BeinSport 10 FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/36296
+#EXTINF:-1,BeinSport 11 FHD
+
+#EXTINF:-1,RMC SPORT 1 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49213
+#EXTINF:-1,RMC SPORT 2 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49214
+#EXTINF:-1,RMC SPORT 3 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49215
+#EXTINF:-1,RMC SPORT 4 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49216
+#EXTINF:-1,RMC SPORT 5 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49217
+#EXTINF:-1,RMC SPORT 6 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49218
+#EXTINF:-1,RMC SPORT 7 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49219
+#EXTINF:-1,RMC SPORT 8 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49220
+#EXTINF:-1,RMC SPORT 9 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49221
+#EXTINF:-1,RMC SPORT 10 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49222
+#EXTINF:-1,RMC SPORT 11 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49223
+#EXTINF:-1,RMC SPORT 12 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49224
+#EXTINF:-1,RMC SPORT 13 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49225
+#EXTINF:-1,RMC SPORT 14 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49226
+#EXTINF:-1,RMC SPORT 15 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49227
+#EXTINF:-1,EUROSPORT 1 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49232
+#EXTINF:-1,EUROSPORT 2 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/49233
+#EXTINF:-1,DIGI SPORT 1
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/77489
+#EXTINF:-1,DIGI SPORT 2
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/77491
+#EXTINF:-1,DIGI SPORT 3
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/77492
+#EXTINF:-1,DIGI SPORT 4
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/77493
+#EXTINF:-1,SPORT KLUB 1(HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79774
+#EXTINF:-1,SPORT KLUB 2 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79775
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79776
+#EXTINF:-1,SPORT KLUB 4 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79777
+#EXTINF:-1,SPORT KLUB 5 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79778
+#EXTINF:-1,SPORT KLUB 6 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79779
+#EXTINF:-1,SPORT KLUB 7 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79780
+#EXTINF:-1,SPORT KLUB 8 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79781
+#EXTINF:-1,SPORT KLUB 9 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79782
+#EXTINF:-1,SPORT KLUB 10 (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79783
+#EXTINF:-1,ARENA SPORT 1 BIH
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79784
+#EXTINF:-1,ARENA SPORT 1 HKURD: (SR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79785
+#EXTINF:-1,ARENA SPORT 2 HKURD: (SR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79786
+#EXTINF:-1,ARENA SPORT 3 HKURD: (SR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79787
+#EXTINF:-1,ARENA SPORT 4 HKURD: (SR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79788
+#EXTINF:-1,ARENA SPORT 1 HKURD: (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79789
+#EXTINF:-1,ARENA SPORT 2 HKURD: (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79790
+#EXTINF:-1,ARENA SPORT 3 HKURD: (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79791
+#EXTINF:-1,ARENA SPORT 4 HKURD: (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79792
+#EXTINF:-1,ARENA SPORT 5 HKURD: (HR)
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79793
+#EXTINF:-1,EUROSPORT 1 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79794
+#EXTINF:-1,EUROSPORT 2 HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79795
+#EXTINF:-1,Match! HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/46233
+
+#EXTINF:-1,Bein Sport 1HD Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1,Bein Sport 2HD Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport HD 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport HD 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1,Sport.TV HD 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,True Sport 2 HD
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1,BARINUI
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/84277
+#EXTINF:-1,SONY PIX
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/77524
+#EXTINF:-1,HBO INDIA HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79170
+#EXTINF:-1,MN PLUS HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79173
+#EXTINF:-1,MNX HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79174
+#EXTINF:-1,MOVIES NOW HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79175
+#EXTINF:-1,AND FLIX HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79154
+#EXTINF:-1,AND PRIVE HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79155
+#EXTINF:-1,STAR MOVIES HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79183
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79184
+#EXTINF:-1,STAR WORLD HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79185
+#EXTINF:-1,STAR WORLD PREMIER HD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/79186
+#EXTINF:-1,SKY CINEMA ACTION FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80127
+#EXTINF:-1,SKY CINEMA THRILL FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80128
+#EXTINF:-1,SKY CINEMA SKI-FI FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80129
+#EXTINF:-1,SKY CINEMA PREMIER FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80130
+#EXTINF:-1,SKY CINEMA HITS FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80131
+#EXTINF:-1,SKY CINEMA GREATS FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80132
+#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80134
+#EXTINF:-1,SKY CINEMA DISNEY FHD
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/80135
+#EXTINF:-1,REN TV
+http://sansatplus.net:25461/ja0930y21/FkEb1jAyDeQXqrg/78654
+
+
+#EXTINF:-1,PPTV HD
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1,HBO HD
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO Hits
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1,Cartoon Network
+https://peer7.ustv24h.live/CN/myStream/chunks.m3u8?nimblesessionid=33199255&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDM6NTM6MDUgQU0maGFzaF92YWx1ZT1vNEpJaU91U1Y2UmtVVDY5Y1JOTURRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,CN HD
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1,Disney Channel
+https://peer6.ustv24h.live/Disney/myStream/chunks.m3u8?nimblesessionid=32125536&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDM6NTM6NTkgQU0maGFzaF92YWx1ZT1sRTdLK0tDQ1NocnZEQ0ZBT3Arc1JnPT0mdmFsaWRtaW51dGVzPTI0MA==
